@@ -18,7 +18,7 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>Aa.11223344</string>
+			<string></string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -32,13 +32,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.137.1</string>
+			<string>192.168.77.231</string>
 			<key>ProxyServerPort</key>
 			<integer>10809</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>ANA-AW 3301</string>
+			<string>HUAZHU-Mercure</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
