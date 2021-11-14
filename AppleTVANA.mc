@@ -12,13 +12,13 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA2-PSK</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string></string>
+			<string>63104zxw</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -32,13 +32,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.78.82</string>
+			<string>10.0.0.11</string>
 			<key>ProxyServerPort</key>
-			<integer>443</integer>
+			<integer>7890</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>HUAZHU-Mercure</string>
+			<string>63104zxw-5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
